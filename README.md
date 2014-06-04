@@ -5,9 +5,9 @@ Die MovieDatabase ist ein Schulprojekt am Gymnasium Waldkraiburg.
 
 
 ## Index
-* [Notizen](/notizen.txt)
-* [Schema](/schema.txt)
-* [Abfragen](/abfragen.txt)
+* [Notizen](/Notizen.md)
+* [Schema](/Schema.md)
+* [Abfragen](/Abfragen.md)
 
 ## Roadmap
 * Planung
