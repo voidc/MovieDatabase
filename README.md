@@ -1,5 +1,5 @@
 # FilmDB
-*von Dominik Stolz und Vinzenz Senftl (und Christian Nickel)*
+*von Dominik Stolz und Vinzenz Senftl und Christian Nickel*
 
 Die MovieDatabase ist ein Schulprojekt am Gymnasium Waldkraiburg.
 
