@@ -1,1 +1,16 @@
 # Notizen
+### Film:
+* Titel
+* Orginaltitel
+* Erscheinungsjahr
+* FSK
+* Laufzeit
+* Metascore
+* Genre
+* Kurzbeschreibung
+* Budget
+* Einspielergebnisse
+* Studio
+* Director
+* Actors
+* Writer
