@@ -1,8 +1,7 @@
 # FilmDB
-*von Dominik Stolz und Vinzenz Senftl und Christian Nickel*
+*von [Dominik Stolz](//github.com/VoidCatz) und [Vinzenz Senftl](//github.com/vinzzenzz) und [Christian Nickel](//github.com/christiannickel)*
 
 Die MovieDatabase ist ein Schulprojekt am Gymnasium Waldkraiburg.
-
 
 ## Index
 * [Notizen](/Notizen.md)
