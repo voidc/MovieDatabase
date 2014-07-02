@@ -35,19 +35,19 @@ AUSZEICHNUNG{
   Name: VARCHAR(30),  
   Typ: VARCHAR(30)  
 }  
-IstDarsellerIn{  
+IST_DARSTELLER_IN{  
   ***Film***: INTEGER,  
   ***Person***: INTEGER,  
   Rolle: VARCHAR(30),  
   Gage: INTEGER  
 }  
-FilmAusgezeichnetMit{  
+FILM_AUSGEZEICHNET_MIT{  
   ***Film***: INTEGER,  
   ***Auszeichnung***: INTEGER,  
   Verleihungsdatum: DATE,  
   Verleiher: VARCHAR(30)  
 }  
-PersonAusgezeichnetMit{  
+PERSON_AUSGEZEICHNET_MIT{  
   ***Person***: INTEGER,  
   ***Auszeichnung***: INTEGER,  
   Verleihungsdatum: DATE,  
