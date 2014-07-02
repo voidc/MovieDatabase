@@ -34,13 +34,16 @@
 ### FilmAusgezeichnetMit
 * Film ref Film.ID
 * Auszeichnung ref Auszeichnung.ID
+* Verleihungsdatum
+* Verleiher
 
 ### PersonAusgezeichnetMit
 * Person ref Person.ID
 * Auszeichnung ref Auszeichnung.ID
+* Verleihungsdatum
+* Verleiher
 
 ### Auszeichnung
 * ID
 * Name
 * Typ
-* Verleihungsdatum
