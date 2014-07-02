@@ -19,6 +19,8 @@
 ### IstDarstellerIn
 * Film ref Film.ID
 * Person ref Person.ID
+* Rolle
+* Gage
 
 ### Person
 * ID
