@@ -1,5 +1,7 @@
 # Notizen
+
 ### Film:
+* ID
 * Titel
 * Orginaltitel
 * Erscheinungsjahr
@@ -12,6 +14,15 @@
 * Einspielergebnisse
 * Studio
 * Director
-* Actors
 * Writer
+
+### IstDarsteller
+* FilmID
+* DarsellerID
+
 ### Darsteller
+* ID
+* Name
+* Nationalität
+* Geburtsdatum
+* Oscars
