@@ -12,9 +12,9 @@
 * Kurzbeschreibung
 * Budget
 * Einspielergebnisse
-* Studio
+* Studio ref Studio
 * Director ref Person
-* Writer
+* Writer ref Person
 
 ### IstDarstellerIn
 * Film ref Film.ID
@@ -25,7 +25,11 @@
 * Name
 * Nationalität
 * Geburtsdatum
-* Oscars
+
+### Studio
+* ID
+* Name
+* Ort
 
 ### FilmAusgezeichnetMit
 * Film ref Film.ID
