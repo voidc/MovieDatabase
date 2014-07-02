@@ -17,8 +17,8 @@
 * Writer
 
 ### IstDarstellerIn
-* FilmID ref Film.ID
-* PersonID ref Person.ID
+* Film ref Film.ID
+* Person ref Person.ID
 
 ### Person
 * ID
@@ -27,9 +27,12 @@
 * Geburtsdatum
 * Oscars
 
-### Ausgezeichnet mit
+### FilmAusgezeichnetMit
+* Film ref Film.ID
+* Auszeichnung ref Auszeichnung.ID
 
-### Preis
+### Auszeichnung
+* ID
 * Name
 * Typ
 * Verleihungsdatum
