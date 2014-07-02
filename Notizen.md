@@ -12,9 +12,9 @@
 * Kurzbeschreibung
 * Budget
 * Einspielergebnisse
-* Studio ref Studio
-* Director ref Person
-* Writer ref Person
+* Studio ref Studio.ID
+* Director ref Person.ID
+* Writer ref Person.ID
 
 ### IstDarstellerIn
 * Film ref Film.ID
