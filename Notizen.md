@@ -31,6 +31,10 @@
 * Film ref Film.ID
 * Auszeichnung ref Auszeichnung.ID
 
+### PersonAusgezeichnetMit
+* Person ref Person.ID
+* Auszeichnung ref Auszeichnung.ID
+
 ### Auszeichnung
 * ID
 * Name
