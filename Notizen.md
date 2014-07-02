@@ -13,17 +13,23 @@
 * Budget
 * Einspielergebnisse
 * Studio
-* Director
+* Director ref Person
 * Writer
 
-### IstDarsteller
-* FilmID
-* DarsellerID
+### IstDarstellerIn
+* FilmID ref Film.ID
+* PersonID ref Person.ID
 
-### Darsteller
+### Person
 * ID
 * Name
 * Nationalität
 * Geburtsdatum
 * Oscars
 
+### Ausgezeichnet mit
+
+### Preis
+* Name
+* Typ
+* Verleihungsdatum
