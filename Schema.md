@@ -22,7 +22,7 @@ FILM{
 PERSON{  
   **ID**: INTEGER,  
   Name: VARCHAR(30),  
-  Nationalität: VARCHAR(30),  
+  Nationalitaet: VARCHAR(30),  
   Geburtsdatum: DATE  
 }  
 STUDIO{  
