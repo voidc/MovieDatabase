@@ -7,7 +7,7 @@ FROM FILM F, PERSON P, IST_DARSTELLER_IN IDI
 WHERE IDI.Film = F.ID
   AND IDI.Person = P.ID
   AND F.Genre = "Romantik"
-  AND P.Nationalität = "deutsch"
+  AND P.Nationalitaet = "deutsch"
 ```
 
 Gib alle Action Filme an welche in Hollywood gedreht wurden.
