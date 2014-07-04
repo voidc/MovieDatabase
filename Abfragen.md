@@ -9,3 +9,11 @@ WHERE IDI.Film = F.ID
   AND F.Genre = "Romantik"
   AND P.Nationalität = "deutsch"
 ```
+
+Gib alle Action Filme an welche in Hollywood gedreht wurden.
+```sql
+SELECT F.Name
+FROM Studio S, Film F
+WHERE F.Genre = 'Action' 
+  AND F.Studio = S.ID
+```
