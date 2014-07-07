@@ -3,6 +3,14 @@
 
 Die MovieDatabase ist ein Schulprojekt am Gymnasium Waldkraiburg.
 
+* Projektbezeichnung: FilmDB
+* Projektdauer: 04.06.2014 - 07.07.2014
+* Arbeitsgruppe: Dominik Stolz, Vinzenz Senfl, Christian Nickel
+* Projektleiter: Dominik Stolz
+
+## Aufgabe
+Erstelle eine Filmdatenbank.
+
 ## Index
 * [Notizen](/Notizen.md)
 * [ER Diagramm](/ER.md)
