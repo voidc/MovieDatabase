@@ -15,6 +15,7 @@ Alle Action Filme, welche in Hollywood gedreht wurden.
 ```sql
 SELECT F.Name
 FROM Studio S, Film F
+GROUP BY F.Metascore
 WHERE F.Genre = 'Action' 
   AND F.Studio = S.ID
   AND F.Ort = 'Hollywood'
